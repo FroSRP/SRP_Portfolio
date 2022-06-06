@@ -1,0 +1,4 @@
+﻿  Win_Server.cpp
+c:\users\froz\source\repos\win_server\win_server\win_server.cpp(168): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\froz\source\repos\win_server\win_server\win_server.cpp(190): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Win_Server.vcxproj -> C:\Users\FrOz\source\repos\Win_Server\Debug\Win_Server.exe
